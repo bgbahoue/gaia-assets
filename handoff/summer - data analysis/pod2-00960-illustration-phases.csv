@@ -1,0 +1,4 @@
+phase,description,start_local,end_local,hours,mould_median_ou,mould_max_ou,temp_median_c,co2_median_ppm,sound_median_dba
+lived-in,"Occupied, AC cycling normally",2023-11-20T00:00,2023-12-06T05:00,389,18.7,262.4,24.6,530,48.2
+empty-ac-off,"Closed and empty, AC off (13 days)",2023-12-06T05:00,2023-12-18T21:00,304,271.0,296.9,26.3,403,41.5
+back-ac-on,"Back home, AC switched on (17 h)",2023-12-18T21:00,2023-12-19T14:00,17,691.7,876.0,22.3,408,45.6

@@ -1,0 +1,5 @@
+event,home,season,ac_state,before_from,before_to,during_from,during_to,return_from,return_to,temp_before_c,temp_during_c,rh_before_pct,rh_during_pct,abs_humidity_during_g_m3,mould_before_ou,mould_during_ou,mould_ratio,mould_return_median_ou,mould_return_peak_ou_settled,return_hours_dropped_warmup,series_claim_supported
+dec2023,old,winter,"off",2023-11-20,2023-12-05,2023-12-07,2023-12-17,2023-12-18,2023-12-19,24.6,26.3,64,58,14.4,18.8,275.0,14.6,207.2,876.0,0,"never-off (dry mode, or 24-25C); switch-on release event"
+mar2024,old,spring,"off",2024-03-25,2024-03-28,2024-03-30,2024-04-08,2024-04-10,2024-04-10,23.8,26.7,66,57,14.4,8.1,93.4,11.5,16.3,206.5,0,"never-off (dry mode, or 24-25C)"
+jul2024,old,summer,"on @ 24.3C",2024-07-06,2024-07-08,2024-07-10,2024-07-18,2024-07-20,2024-07-20,24.1,24.3,56,54,11.8,11.4,76.7,6.7,209.4,302.0,2,"still smells => growth established, drying will not fix it"
+jul2026,new,summer,"on @ 26.9C",2026-07-04,2026-07-06,2026-07-08,2026-07-12,,,26.1,26.9,45,46,12.0,6.1,5.3,0.9,,,0,"counterfactual: clean system + AC left running = no build-up; setpoint 26.9C held RH 46 pct"
